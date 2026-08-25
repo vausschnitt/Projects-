@@ -2,15 +2,7 @@
 ASCII Slot Machine - Windows GUI version (Tkinter)
 
 HOW TO RUN ON WINDOWS:
-  1. Open PowerShell / Command Prompt
-  2. cd to the folder containing this file
-  3. Run:  python Slot.py       (or:  py Slot.py)
-
-You can also just double-click Slot.py in File Explorer if .py files
-are associated with Python.
-
-No extra installs needed - tkinter ships with the standard Windows
-Python installer.
+  1. Run:  python Slot.py       (or:  py Slot.py) in the file explorer
 """
 
 import tkinter as tk
