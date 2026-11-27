@@ -1,4 +1,5 @@
 Alham Aqif Uzair Bin Hamidi
+The reports folder contains proj documentation etc
 This repo is for independents project 
 List:
 1. slot machine
